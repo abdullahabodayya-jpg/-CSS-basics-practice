@@ -122,7 +122,7 @@ Basic horizontal layout
 
 The exercise helps demonstrate that relative keeps an element in its original space while allowing it to be visually moved.
 
-Page 5 - Multi Box Shadow
+## Page 5 - Multi Box Shadow
 
 This page focuses on CSS shadows.
 
@@ -136,7 +136,7 @@ Visual depth
 
 This demonstrates how multiple shadow declarations can be combined to create different visual effects.
 
-Page 6 - Borders
+## Page 6 - Borders
 
 This page demonstrates six different CSS border styles.
 
@@ -157,7 +157,7 @@ Border width
 Border color
 Border style
 Different border appearances
-Page 7 - Image Positioning
+## Page 7 - Image Positioning
 
 This page focuses on positioning multiple images.
 
@@ -175,7 +175,7 @@ object-fit
 
 The first image is placed above the other images using a higher stacking level.
 
-Page 8 - Advanced
+## Page 8 - Advanced
 
 The final CSS exercise is an advanced positioning example.
 
@@ -364,6 +364,7 @@ Adding form validation
 Improving accessibility
 Adding more advanced CSS animations
 Building the project with a frontend framework
-Author
+
+## Author
 
 Abdullah Abu Dayeh
